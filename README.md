@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KanteshMurade">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="www.linkedin.com/in/kanteshmurade">LinkedIn</a> •
   <a href="mailto:kanteshmurade@gmail.com">Email</a>
 </p>
 
@@ -33,11 +33,8 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://github.com/KanteshMurade">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="www.linkedin.com/in/kanteshmurade">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kanteshmurade@gmail.com">
