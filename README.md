@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I am Kantesh 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/KanteshMurade">GitHub</a> •
   <a href="https://www.linkedin.com/in/kanteshmurade">LinkedIn</a> •
   <a href="mailto:kanteshmurade@gmail.com">Email</a>
 </p>
@@ -34,7 +33,7 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 
-  <a href="www.linkedin.com/in/kanteshmurade">
+  <a href="https://www.linkedin.com/in/kanteshmurade">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kanteshmurade@gmail.com">
