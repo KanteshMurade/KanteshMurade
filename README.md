@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KanteshMurade">GitHub</a> •
-  <a href="www.linkedin.com/in/kanteshmurade">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kanteshmurade">LinkedIn</a> •
   <a href="mailto:kanteshmurade@gmail.com">Email</a>
 </p>
 
